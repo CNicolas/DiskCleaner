@@ -2,6 +2,7 @@
 Windows Service (ETNA)
 
 The aim of this service is to clear a directory, given in de registers.
+`We got the score of 25/20.`
 
  - Win32
  - InnoSetup
