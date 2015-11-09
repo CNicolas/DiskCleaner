@@ -1,0 +1,11 @@
+﻿La génération a démarré 01/10/2014 11:08:44.
+     1>Projet "D:\Users\cnicolas\PROJETS\DiskCleaner\DiskCleaner\DiskCleaner\DiskCleaner.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Link:
+         D:\Programmes\Visual Studio 2013 Express Desktop\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\cnicolas\PROJETS\DiskCleaner\DiskCleaner\Debug\AutoClean.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\cnicolas\PROJETS\DiskCleaner\DiskCleaner\Debug\AutoClean.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\cnicolas\PROJETS\DiskCleaner\DiskCleaner\Debug\AutoClean.lib" /MACHINE:X86 Debug\functions.obj
+         Debug\main.obj
+         DiskCleaner.vcxproj -> D:\Users\cnicolas\PROJETS\DiskCleaner\DiskCleaner\Debug\AutoClean.exe
+     1>Génération du projet "D:\Users\cnicolas\PROJETS\DiskCleaner\DiskCleaner\DiskCleaner\DiskCleaner.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.95
